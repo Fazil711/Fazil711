@@ -4,7 +4,7 @@ I am Fazil Ahmed a college student currently pursuing for BE CSE degree in Mumba
 
 
 - 🔭 I’m currently working on Android Develpoment
-- ⚡ Fun fact: T-rex is more close to us as T-rex is to stegosaurus
+- ⚡ Fun fact: T-rex is more close to us than T-rex is to stegosaurus
 
 #### &#128161; Techs & Tools
 
