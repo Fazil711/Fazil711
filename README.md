@@ -1,4 +1,4 @@
-### Hello, Guys! 👋
+### Hello, Folks! 👋
 I am Fazil Ahmed a college student currently pursuing for BE CSE degree in Mumbai University. My main aim is to become a software engineer
 
 
